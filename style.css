@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body{
+    font-family: 'poppins',sans-serif;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'teko'sans-serif;
+}
+.site{
+    background-image:  linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+    url(./images/banner-image.png);
+    background-size: cover;
+    background-position: center center;
+}
+.sitesm{
+    background-image:  linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+    url(./images/img1.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+.sitemd{
+    background-image:  linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+    url(./images/img2.jpg);
+    background-size: cover;
+    background-position: center center;}
